@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Young Americans: Immigration, Fertility and the Demographic Future of the United States"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Leite"
+    given-names: "João Gabriel Caetano"
+version: 1.0.0
+date-released: 2026-08-05
+license: MIT
